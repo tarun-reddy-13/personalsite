@@ -1,0 +1,40 @@
+body{background-color: azure;}
+hr
+{
+    border-style:dotted;
+    border-top: 2px;
+    border-color: rgb(184, 167, 113);
+    border-width: 5%;
+}
+h1,h3
+{
+    font-family:cursive;
+    color:rgb(124, 183, 231);
+    font-weight:bold;
+    text-align: center;
+    text-decoration:underline;
+}
+p
+{
+    font-family: cursive;
+    color:rgb(67, 89, 136);
+    text-align: center;
+}
+table
+{
+    font-family: cursive;
+    color: rgb(67,89,136);
+    border-radius: 5%;
+    border-color: burlywood;
+}
+ol,ul
+{
+    font-family: cursive;
+    color: rgb(67,89,136);
+    align-self: center;
+}
+form
+{
+    font-family: cursive;
+    color:rgb(236, 120, 126);
+}
